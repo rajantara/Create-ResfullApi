@@ -1,9 +1,12 @@
 /*
 
+follow my instagram
+rajanlaoder_
+
 how to create restfulapi mongoose
 
 
-exxpres generator
+exxpress generator
 
 npm install mongoose
 npm instal nodemon --D
@@ -13,7 +16,7 @@ create models
 create server
 connect mongodb
 
-build databse mongo
+build database mongo
 
 mongo
 use db
